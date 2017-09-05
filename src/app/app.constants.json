@@ -1,7 +1,7 @@
 {
     "appname": "Angular Buyer",
-    "clientid": "48E60598-5358-40A7-B5DB-BC3DF1B5099C",
-    "anonymous": false,
+    "clientid": "1D9F2B84-CC2A-4948-89A6-CACDAC30B89D",
+    "anonymous": true,
     "environment": "prod",
     "defaultstate": "home",
     "html5mode": true,
